@@ -2,4 +2,4 @@
 
 apt update && apt upgrade
 
-apt install btop neofetch
+apt install btop neofetch tree htop
